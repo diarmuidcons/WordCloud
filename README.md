@@ -6,7 +6,7 @@ Application will then output a PNG file, which the user names, depicting a wordc
 
 **How to run**  
 Download repository locally  
-Run file from command line  
+To execute JAR file, in Command line, run: java -cp ./wcloud.jar ie.gmit.dip.Runner  
 Follow instructions when application is run
 
 **References**  
